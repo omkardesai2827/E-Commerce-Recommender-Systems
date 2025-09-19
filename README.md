@@ -83,10 +83,10 @@ This system provides personalized recommendations based on a user's past interac
 - **Market Basket**: Upsell during checkout (e.g., Amazon's "Frequently bought together"). Increases average order value by surfacing cross-sell opportunities.
 - **Item-Item**: Product detail pages for cold-start users (e.g., "Similar products" on eBay). Helps with discovery when user data is limited.
 - **User-Item**: Personalized homepages or emails (e.g., Netflix-style "Recommended for you" on Shopify). Boosts retention by tailoring to individual journeys.
-- Overall: These systems can increase conversion rates by 10-30% in e-commerce, as seen in platforms like Alibaba or Walmart.
+- Overall: These systems can increase conversion rates by 10-30% in e-commerce, as seen in platforms like Amazon, Flipkart, eBay and many more.
 
 ## Contributors
 - **Omkar Desai** - Logic and model building
-- **Panagiotis Valsamis** - logic and interface building
+- **Panagiotis Valsamis**(https://github.com/ValsamisP) - logic and interface building
 
 **We did this project as a group for our 2nd semester Machine learning course.**
