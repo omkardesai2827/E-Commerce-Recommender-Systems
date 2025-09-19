@@ -1,4 +1,4 @@
-# E-Commerce Recommender System
+# E-Commerce Recommender Systems
 
 <img width="1465" height="878" alt="image" src="https://github.com/user-attachments/assets/92521c5e-1acf-4d45-a09b-4a2b66d576b2" />
 
